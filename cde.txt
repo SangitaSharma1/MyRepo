@@ -1,2 +1,3 @@
 Content for cde.txt file
 from master
+version 1.0
