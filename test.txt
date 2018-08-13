@@ -1,2 +1,3 @@
 for testing purpose.
 Changes made from remote repo.
+Checking a difference between git pull and fetch.
